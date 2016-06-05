@@ -1,0 +1,50 @@
+.color-pallatte {
+  margin: 5px;
+  padding: 5px;
+  position: fixed;
+  background-color: gray;
+  top: 0;
+  left: 0;
+}
+
+.color-choice {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.violet {
+  background-color: violet;
+}
